@@ -1,0 +1,19 @@
+#Template for Directory Project
+title = "Aquarelle Metaverse"
+
+url = "https://aquarelle.finance/"
+
+description = "Aquarelle is an NFT art and game development studio working with new artists and developers, particularly from India, to unleash their creativity across blockchains. They have released art NFTs on Ethereum and Cardano, have built a prototype 3D virtual gallery and will build a metaverse on the XRP Ledger."
+
+contact = "aquarelle.finance@gmail.com"
+
+modified_date = "2022-02-22"
+
+category = "Metaverse"
+
+twitter = "https://twitter.com/aquarellefi"
+
+github = ""
+
+#tags for making this searchable
+tags = ["gaming", "metaverse", "NFT"]
