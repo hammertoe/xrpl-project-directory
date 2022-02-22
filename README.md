@@ -23,7 +23,7 @@ git clone git@github.com:XRPLF/xrpl-project-directory.git
 cd xrpl-project-directory
 python3 -m venv venv
 . venv/bin/activate
-pip install toml
+pip install -r requirements.txt
 ```
 
 ## Running the parser
