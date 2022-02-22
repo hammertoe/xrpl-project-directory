@@ -1,0 +1,6 @@
+title = "A Test XRPL project"
+url = "https://example.xrpl.org"
+tags = ["xro", "xrpll"]
+category = "wallet"
+email = "mhamilton@ripple.com"
+last_updated = "2022-02-22"
